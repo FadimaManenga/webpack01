@@ -1,5 +1,5 @@
 // chargement du module webpack
 const webpack = require("webpack");
 
-// chemin vers nos fichiers
+// chemin de nos fichiers
 const path = require("path");
